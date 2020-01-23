@@ -45,7 +45,7 @@ $ php bin/console server:start
 
 **URL** : 127.0.0.1:8000/users/{id}
 **Method** : PUT
-**Json** : {"firstname" : "xxx", "latname": "xxx"} 
+**Json** : {"firstname" : "xxx", "lastname": "xxx"} 
 
 - **Delete user** : 
 
